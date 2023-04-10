@@ -1,0 +1,21 @@
+body div.saerc{
+    display: inline-block;
+    padding:10px;
+    position: relative;
+    border-radius: 20px;
+}
+.saerc input{
+    padding: 5px 20px;
+    border-radius: 10px;
+    
+}
+.saerc button{
+    border-radius: 20px;
+    font-size: large;
+    border: 0;
+background: none;
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    bottom: 2px;
+}
